@@ -4,8 +4,12 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Assessment/app/src/main/res/drawable/background_color.xml" value="0.223" />
+        <entry key="..\:/Assessment/app/src/main/res/drawable/pop_up_background.xml" value="0.203" />
+        <entry key="..\:/Assessment/app/src/main/res/layout/activity_main.xml" value="0.234375" />
         <entry key="..\:/Assessment/app/src/main/res/layout/activity_share.xml" value="0.234375" />
-        <entry key="..\:/Assessment/app/src/main/res/layout/activity_sign_up.xml" value="0.234375" />
+        <entry key="..\:/Assessment/app/src/main/res/layout/activity_sign_up.xml" value="0.17786561264822134" />
+        <entry key="..\:/Assessment/app/src/main/res/layout/name_model.xml" value="0.1" />
+        <entry key="..\:/Assessment/app/src/main/res/layout/pop_up.xml" value="0.23854166666666668" />
       </map>
     </option>
   </component>
